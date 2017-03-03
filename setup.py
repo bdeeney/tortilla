@@ -39,6 +39,7 @@ setup(
         'colorama',
         'requests',
         'formats',
+        'munch',
         'six',
         'httpretty'
     ],
